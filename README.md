@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Developer / Jr QA Tester<br>I'm interested in backend projects<br>I'm currently improving my skills as a software developer<br>
+I'm currently working as a Software Engineer<br>I'm interested in backend projects<br>
 
 
 ## 🌐 Socials:
